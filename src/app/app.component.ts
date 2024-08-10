@@ -11,5 +11,4 @@ import { AccountComponent } from './account/account.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'week4tut';
 }
